@@ -168,6 +168,7 @@
   text-decoration: none;
 }
 .events__more:hover {
+  color: #1f69c9;
 }
 
 .events__cover {
@@ -410,7 +411,7 @@
   display: flex;
 }
 
-.footer__column_hours {
+.footer__column_content_hours {
   margin-left: auto;
 }
 
