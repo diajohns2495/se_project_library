@@ -402,7 +402,7 @@
 }
 
 .footer__columns {
-  display: ;
+  display: flex;
 }
 
 .footer__column_content_hours {
