@@ -93,17 +93,14 @@
   margin: 0;
   color: #838383;
 }
-.events:hover {
+
+.events {
   padding: 100px 0 120px 80px;
   display: flex;
   align-items: start;
   justify-content: space-between;
   box-sizing: border-box;
   background-color: #f2f2f2;
-}
-
-.events:hover {
-  color: #1f69c9;
 }
 
 .events__content {
